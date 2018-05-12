@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5630
     wikipedia: http://en.wikipedia.org/wiki/James_Freeman_Clarke
 description: ii. A comparison of all religions.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14674#Ten-Great-ReligionsAn-Essay-in-Comparative-Theology
 gutenberg_bookshelf: Islam
 gutenberg_issued: '2005-01-12'
 gutenberg_type: Text
