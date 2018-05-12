@@ -1,0 +1,35 @@
+_repo: Ten-Great-ReligionsAn-Essay-in-Comparative-Theology_14674
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Clarke, James Freeman
+    alias: Clarke, J. F. (James Freeman)
+    birthdate: 1810
+    deathdate: 1888
+    gutenberg_agent_id: '5630'
+    url: http://www.gutenberg.org/2009/agents/5630
+    wikipedia: http://en.wikipedia.org/wiki/James_Freeman_Clarke
+description: ii. A comparison of all religions.
+gutenberg_bookshelf: Islam
+gutenberg_issued: '2005-01-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14674'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Religions'
+- !lcc 'BL'
+- !lcsh 'Christianity and other religions'
+tableOfContents: 'Introduction: Ethnic and Catholic religions -- Confucius and the
+  Chinese, or, The prose of Asia -- Brahmanism -- Buddhism, or, The Prostestantism
+  of the East -- Zoroaster and the Zend Avesta -- The gods of Egypt -- The gods of
+  Greece -- The religion of Rome -- The Teutonic and Scandinavian religion --  The
+  Jewish religion -- Mohammed and Islam -- The ten religions and Christianity.'
+title: 'Ten Great Religions: An Essay in Comparative Theology'
+url: http://www.gutenberg.org/ebooks/14674
